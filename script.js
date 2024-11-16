@@ -1,5 +1,5 @@
 // File Name - script.js
-
+// Creating Function
 function getWeather() {
     const apiKey = '7d15e7a013bfafbfd00542f870ca5c54'; // Your API key
     const city = document.getElementById('city').value;
