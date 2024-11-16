@@ -14,3 +14,6 @@ File Structure -
 index.html - Main HTML file,
 style.css - Styling for the weather app interface,
 script.js - JavaScript logic for API interaction and DOM manipulation.
+
+Complete weather app
+
